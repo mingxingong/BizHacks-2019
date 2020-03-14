@@ -1,0 +1,7 @@
+{
+    "laptop": {
+        "configLevel": "project",
+        "useProfile": false,
+        "awsConfigFilePath": "/Users/mingxingong/.amplify/awscloudformation/f3LdggyMMA"
+    }
+}
