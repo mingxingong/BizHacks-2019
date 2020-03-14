@@ -1,0 +1,15 @@
+{
+    "laptop": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-react-app-laptop-204933-authRole",
+            "UnauthRoleArn": "arn:aws:iam::591254591382:role/amplify-my-react-app-laptop-204933-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::591254591382:role/amplify-my-react-app-laptop-204933-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-my-react-app-laptop-204933-deployment",
+            "UnauthRoleName": "amplify-my-react-app-laptop-204933-unauthRole",
+            "StackName": "amplify-my-react-app-laptop-204933",
+            "StackId": "arn:aws:cloudformation:us-east-2:591254591382:stack/amplify-my-react-app-laptop-204933/d2ce1880-65a6-11ea-9205-0a569e9f7d94",
+            "AmplifyAppId": "d29pzwly88pbdw"
+        }
+    }
+}
