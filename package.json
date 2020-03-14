@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "BizHacks-2020",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,10 +12,10 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "/my-react-app/react-scripts start",
+    "build": "/my-react-app/react-scripts build",
+    "test": "/my-react-app/react-scripts test",
+    "eject": "/my-react-app/react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
